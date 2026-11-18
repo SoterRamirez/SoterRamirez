@@ -36,6 +36,10 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 
 <sub>Son sistemas internos en producción; por eso se describen aquí sin enlace al código.</sub>
 
+### Para la comunidad
+
+- 🧰 **[Herramientas para operadores](https://soterramirez.dev/herramientas/)**: horas de manejo (NOM-087), mes de la físico-mecánica según tu placa (NOM-068), límite de humo por año-modelo (NOM-045) y lista para la revisión en carretera. Gratis y con la fuente del DOF.
+
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
