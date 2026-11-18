@@ -38,7 +38,7 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 
 ### Para la comunidad
 
-- 🧰 **[Herramientas para operadores](https://soterramirez.dev/herramientas/)**: horas de manejo (NOM-087), mes de la físico-mecánica según tu placa (NOM-068), límite de humo por año-modelo (NOM-045) y lista para la revisión en carretera. Gratis y con la fuente del DOF.
+- 🧰 **[Cabina](https://github.com/SoterRamirez/cabina)**: la navaja suiza del operador de camiones. Horas de manejo con aviso de pausa, emergencias, doble cobro IAVE, físico-mecánica, humo, gastos del viaje y bitácora. Funciona sin señal y guarda todo en el celular. [Úsala aquí](https://soterramirez.dev/herramientas/). Código abierto, con fuentes del DOF.
 
 ### Lo último del blog
 
