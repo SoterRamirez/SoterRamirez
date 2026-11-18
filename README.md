@@ -39,11 +39,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
-- [La curva de aprendizaje: por qué el primer intento nunca representa el costo real](https://blog.soterramirez.dev/2026/11/la-curva-de-aprendizaje-por-que-el.html)
-- [¿Qué pasa si me niego al antidoping? El reglamento dice que quedas no apto](https://blog.soterramirez.dev/2026/11/que-pasa-si-me-niego-al-antidoping-el.html)
-- [Encuesta de equipo: preguntar y cambiar](https://blog.soterramirez.dev/2026/11/encuesta-de-equipo-preguntar-y-cambiar.html)
-- [La organización informal: el mapa que no está dibujado en ninguna parte](https://blog.soterramirez.dev/2026/11/la-organizacion-informal-el-mapa-que-no.html)
-- [El enunciado del trabajo y tus deberes](https://blog.soterramirez.dev/2026/11/el-enunciado-del-trabajo-y-tus-deberes.html)
+- [La curva de aprendizaje: por qué el primer intento nunca representa el costo real](http://blog.soterramirez.dev/2026/11/la-curva-de-aprendizaje-por-que-el.html)
+- [¿Qué pasa si me niego al antidoping? El reglamento dice que quedas no apto](http://blog.soterramirez.dev/2026/11/que-pasa-si-me-niego-al-antidoping-el.html)
+- [Encuesta de equipo: preguntar y cambiar](http://blog.soterramirez.dev/2026/11/encuesta-de-equipo-preguntar-y-cambiar.html)
+- [La organización informal: el mapa que no está dibujado en ninguna parte](http://blog.soterramirez.dev/2026/11/la-organizacion-informal-el-mapa-que-no.html)
+- [El enunciado del trabajo y tus deberes](http://blog.soterramirez.dev/2026/11/el-enunciado-del-trabajo-y-tus-deberes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
