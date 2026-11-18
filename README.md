@@ -1,44 +1,69 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Soter Ramírez · Dirección de proyectos y software para el transporte · De la fuente a la cabina · Leo el DOF por ti">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Soter Ramírez</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software para el autotransporte y traduzco lo que sale en el DOF a lenguaje de operador, siempre con la fuente oficial enlazada.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soterramirez" alt="soterramirez" /></a> </p>
+### Qué hago hoy
 
-<p align="left"> <a href="https://twitter.com/soterramirez" target="blank"><img src="https://img.shields.io/twitter/follow/soterramirez?logo=twitter&style=for-the-badge" alt="soterramirez" /></a> </p>
+- 🚚 Trabajo en **Vendotractos** (distribuidor FAW, Texcoco): dirijo producto, sistemas y marca.
+- 📄 Escribo en **[blog.soterramirez.dev](https://blog.soterramirez.dev)**: dirección de proyectos y carretera, leídos en la fuente.
+- 🎬 Hago reels animados en código para operadores: *El Perico y Tuerca*.
 
-- 🔭 I’m currently working on [HotelTravel](https://github.com/SoterRamirez/HotelTravel)
+### Lo que he construido
 
-- 🌱 I’m currently learning **API REST**
-
-- 👨‍💻 All of my projects are available at [soterramirez.dev](soterramirez.dev)
-
-- 📝 I regularly write articles on [blog.soterramirez.dev](blog.soterramirez.dev)
-
-- 💬 Ask me about **HTML, CSS, Js, React, Angular**
-
-- 📫 How to reach me **isai@soterramirez.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="https://dev.to/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="https://twitter.com/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isai-ramirez-campero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isai-ramirez-campero" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/soter-ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soter-ramirez" height="30" width="40" /></a>
-<a href="https://fb.com/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="https://instagram.com/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soterramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soterramirez" height="30" width="40" /></a>
-<a href="/blog.soterramirez.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="blog.soterramirez.dev" height="30" width="40" /></a>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-cotizador-dark.svg">
+  <img src="assets/card-cotizador-light.svg" width="49%" alt="Cotizador: cotiza camiones FAW y es la fuente única de precios del negocio. Next.js, Prisma y Supabase.">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-odette-dark.svg">
+  <img src="assets/card-odette-light.svg" width="49%" alt="Odette: agente de IA que atiende, califica y pasa los leads a un asesor.">
+</picture>
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-escuela-dark.svg">
+  <img src="assets/card-escuela-light.svg" width="49%" alt="Escuela: rutas de capacitación con video y progreso para vendedores nuevos.">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-crm-dark.svg">
+  <img src="assets/card-crm-light.svg" width="49%" alt="CRM omnicanal: bandeja, embudo y WhatsApp sobre una base de datos propia. TypeScript y PostgreSQL.">
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<sub>Son sistemas internos en producción; por eso se describen aquí sin enlace al código.</sub>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/soterramirez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soterramirez" /></a></p><br><br>
+### Lo último del blog
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soterramirez&show_icons=true&locale=en&layout=compact" alt="soterramirez" /></p>
+<!-- BLOG-POST-LIST:START -->
+- [La curva de aprendizaje: por qué el primer intento nunca representa el costo real](https://blog.soterramirez.dev/2026/11/la-curva-de-aprendizaje-por-que-el.html)
+- [¿Qué pasa si me niego al antidoping? El reglamento dice que quedas no apto](https://blog.soterramirez.dev/2026/11/que-pasa-si-me-niego-al-antidoping-el.html)
+- [Encuesta de equipo: preguntar y cambiar](https://blog.soterramirez.dev/2026/11/encuesta-de-equipo-preguntar-y-cambiar.html)
+- [La organización informal: el mapa que no está dibujado en ninguna parte](https://blog.soterramirez.dev/2026/11/la-organizacion-informal-el-mapa-que-no.html)
+- [El enunciado del trabajo y tus deberes](https://blog.soterramirez.dev/2026/11/el-enunciado-del-trabajo-y-tus-deberes.html)
+<!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soterramirez&show_icons=true&theme=dracula&locale=es" alt="soterramirez" /></p>
+### Con qué trabajo
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soterramirez&" alt="soterramirez" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Next.js, TypeScript, React, NestJS, Prisma, Supabase, PostgreSQL, Docker, Shopify, Claude Code, Ollama y Scrum">
+</picture>
+
+### Formación
+
+- Maestría en Dirección de Proyectos · UNITEC
+- Ingeniería en Sistemas Computacionales · UNITEC
+
+---
+
+<p>
+<a href="https://facebook.com/SoterRamirez"><img src="https://img.shields.io/badge/Facebook-1D3557?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/soterramirez"><img src="https://img.shields.io/badge/Instagram-1D3557?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/isai-ramirez-campero"><img src="https://img.shields.io/badge/LinkedIn-1D3557?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://blog.soterramirez.dev"><img src="https://img.shields.io/badge/Blog-1D3557?style=flat-square&logo=blogger&logoColor=white" alt="Blog"></a>
+&nbsp;&nbsp;<b>@SoterRamirez</b>
+</p>

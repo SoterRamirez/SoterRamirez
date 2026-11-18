@@ -1,0 +1,17 @@
+name: Últimas entradas del blog
+on:
+  schedule:
+    - cron: "0 13 * * *"   # diario, 07:00 hora del centro de México
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.soterramirez.dev/feeds/posts/default"
+          max_post_count: 5
+          commit_message: "Actualiza las últimas entradas del blog"
