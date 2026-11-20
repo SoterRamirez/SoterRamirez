@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Eficacia y eficiencia del equipo: seis factores que sí se pueden observar](http://blog.soterramirez.dev/2026/11/eficacia-y-eficiencia-del-equipo-seis.html)
+- [¿Cuántas horas puedo manejar sin parar? Lo que dice la NOM-087](http://blog.soterramirez.dev/2026/11/cuantas-horas-puedo-manejar-sin-parar.html)
+- [Calidad: el defecto que llega al cliente](http://blog.soterramirez.dev/2026/11/calidad-el-defecto-que-llega-al-cliente.html)
 - [México en el entorno competitivo: qué cambia en la planificación de un proyecto](http://blog.soterramirez.dev/2026/11/mexico-en-el-entorno-competitivo-que.html)
 - [¿Ya tienes tu apto? Así renuevas tu licencia federal en 4 pasos](http://blog.soterramirez.dev/2026/11/ya-tienes-tu-apto-asi-renuevas-tu.html)
-- [Cambios: nadie suma los pequeños](http://blog.soterramirez.dev/2026/11/cambios-nadie-suma-los-pequenos.html)
-- [La curva de aprendizaje: por qué el primer intento nunca representa el costo real](http://blog.soterramirez.dev/2026/11/la-curva-de-aprendizaje-por-que-el.html)
-- [¿Qué pasa si me niego al antidoping? El reglamento dice que quedas no apto](http://blog.soterramirez.dev/2026/11/que-pasa-si-me-niego-al-antidoping-el.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
