@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Tipos de consultoría: conocimiento, manos o una decisión](http://blog.soterramirez.dev/2026/11/tipos-de-consultoria-conocimiento-manos.html)
+- [Aceptar el producto: qué versión firmas](http://blog.soterramirez.dev/2026/11/aceptar-el-producto-que-version-firmas.html)
 - [Eficacia y eficiencia del equipo: seis factores que sí se pueden observar](http://blog.soterramirez.dev/2026/11/eficacia-y-eficiencia-del-equipo-seis.html)
 - [¿Cuántas horas puedo manejar sin parar? Lo que dice la NOM-087](http://blog.soterramirez.dev/2026/11/cuantas-horas-puedo-manejar-sin-parar.html)
 - [Calidad: el defecto que llega al cliente](http://blog.soterramirez.dev/2026/11/calidad-el-defecto-que-llega-al-cliente.html)
-- [México en el entorno competitivo: qué cambia en la planificación de un proyecto](http://blog.soterramirez.dev/2026/11/mexico-en-el-entorno-competitivo-que.html)
-- [¿Ya tienes tu apto? Así renuevas tu licencia federal en 4 pasos](http://blog.soterramirez.dev/2026/11/ya-tienes-tu-apto-asi-renuevas-tu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
