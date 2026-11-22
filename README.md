@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Alineación estratégica: si todo contribuye, la palabra no sirve para decidir](http://blog.soterramirez.dev/2026/11/alineacion-estrategica-si-todo.html)
+- [¿A cuánto puedo ir con el tráiler en carretera federal? 80 de día, 70 de noche](http://blog.soterramirez.dev/2026/11/a-cuanto-puedo-ir-con-el-trailer-en.html)
+- [Satisfacción: cumplir no es contentar](http://blog.soterramirez.dev/2026/11/satisfaccion-cumplir-no-es-contentar.html)
 - [Tipos de consultoría: conocimiento, manos o una decisión](http://blog.soterramirez.dev/2026/11/tipos-de-consultoria-conocimiento-manos.html)
 - [Aceptar el producto: qué versión firmas](http://blog.soterramirez.dev/2026/11/aceptar-el-producto-que-version-firmas.html)
-- [Eficacia y eficiencia del equipo: seis factores que sí se pueden observar](http://blog.soterramirez.dev/2026/11/eficacia-y-eficiencia-del-equipo-seis.html)
-- [¿Cuántas horas puedo manejar sin parar? Lo que dice la NOM-087](http://blog.soterramirez.dev/2026/11/cuantas-horas-puedo-manejar-sin-parar.html)
-- [Calidad: el defecto que llega al cliente](http://blog.soterramirez.dev/2026/11/calidad-el-defecto-que-llega-al-cliente.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
