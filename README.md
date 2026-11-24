@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Las cuatro actividades de la gestión de configuración, en el día a día](http://blog.soterramirez.dev/2026/11/las-cuatro-actividades-de-la-gestion-de.html)
+- [El Reglamento de Tránsito en carreteras federales cambió dos veces en 2026](http://blog.soterramirez.dev/2026/11/el-reglamento-de-transito-en-carreteras.html)
+- [Configuración: qué está bajo control](http://blog.soterramirez.dev/2026/11/configuracion-que-esta-bajo-control.html)
 - [Los cinco grados del fracaso, y por qué importa distinguirlos](http://blog.soterramirez.dev/2026/11/los-cinco-grados-del-fracaso-y-por-que.html)
 - [Para carga: cero alcohol](http://blog.soterramirez.dev/2026/11/para-carga-cero-alcohol.html)
-- [Auditar la compra: ficha del proveedor](http://blog.soterramirez.dev/2026/11/auditar-la-compra-ficha-del-proveedor.html)
-- [Alineación estratégica: si todo contribuye, la palabra no sirve para decidir](http://blog.soterramirez.dev/2026/11/alineacion-estrategica-si-todo.html)
-- [¿A cuánto puedo ir con el tráiler en carretera federal? 80 de día, 70 de noche](http://blog.soterramirez.dev/2026/11/a-cuanto-puedo-ir-con-el-trailer-en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
