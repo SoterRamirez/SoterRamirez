@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Los cinco grados del fracaso, y por qué importa distinguirlos](http://blog.soterramirez.dev/2026/11/los-cinco-grados-del-fracaso-y-por-que.html)
+- [Para carga: cero alcohol](http://blog.soterramirez.dev/2026/11/para-carga-cero-alcohol.html)
+- [Auditar la compra: ficha del proveedor](http://blog.soterramirez.dev/2026/11/auditar-la-compra-ficha-del-proveedor.html)
 - [Alineación estratégica: si todo contribuye, la palabra no sirve para decidir](http://blog.soterramirez.dev/2026/11/alineacion-estrategica-si-todo.html)
 - [¿A cuánto puedo ir con el tráiler en carretera federal? 80 de día, 70 de noche](http://blog.soterramirez.dev/2026/11/a-cuanto-puedo-ir-con-el-trailer-en.html)
-- [Satisfacción: cumplir no es contentar](http://blog.soterramirez.dev/2026/11/satisfaccion-cumplir-no-es-contentar.html)
-- [Tipos de consultoría: conocimiento, manos o una decisión](http://blog.soterramirez.dev/2026/11/tipos-de-consultoria-conocimiento-manos.html)
-- [Aceptar el producto: qué versión firmas](http://blog.soterramirez.dev/2026/11/aceptar-el-producto-que-version-firmas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
