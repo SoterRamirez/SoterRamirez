@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Técnicas de recolección: lo que la gente dice, lo que hace y lo que no sabe que quiere](http://blog.soterramirez.dev/2026/11/tecnicas-de-recoleccion-lo-que-la-gente.html)
+- [¿Cuánto puede pesar tu tráiler y qué le pide la NOM-012 al full?](http://blog.soterramirez.dev/2026/11/cuanto-puede-pesar-tu-trailer-y-que-le.html)
+- [Plan de costos: las horas que no cuestan](http://blog.soterramirez.dev/2026/11/plan-de-costos-las-horas-que-no-cuestan.html)
 - [Las cuatro actividades de la gestión de configuración, en el día a día](http://blog.soterramirez.dev/2026/11/las-cuatro-actividades-de-la-gestion-de.html)
 - [El Reglamento de Tránsito en carreteras federales cambió dos veces en 2026](http://blog.soterramirez.dev/2026/11/el-reglamento-de-transito-en-carreteras.html)
-- [Configuración: qué está bajo control](http://blog.soterramirez.dev/2026/11/configuracion-que-esta-bajo-control.html)
-- [Los cinco grados del fracaso, y por qué importa distinguirlos](http://blog.soterramirez.dev/2026/11/los-cinco-grados-del-fracaso-y-por-que.html)
-- [Para carga: cero alcohol](http://blog.soterramirez.dev/2026/11/para-carga-cero-alcohol.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
