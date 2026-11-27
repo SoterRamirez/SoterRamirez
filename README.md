@@ -43,11 +43,11 @@ Ingeniero en sistemas y maestro en Dirección de Proyectos. Construyo software p
 ### Lo último del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Seis tendencias en operaciones, y las tres que no lo son](http://blog.soterramirez.dev/2026/11/seis-tendencias-en-operaciones-y-las.html)
+- [Aunque traigas calcomanía vigente, te pueden revisar en carretera &lpar;NOM-068&rpar;](http://blog.soterramirez.dev/2026/11/aunque-traigas-calcomania-vigente-te.html)
+- [Adquisiciones: hacer o comprar](http://blog.soterramirez.dev/2026/11/adquisiciones-hacer-o-comprar.html)
 - [Estimar sin documentación es opinar con números](http://blog.soterramirez.dev/2026/11/estimar-sin-documentacion-es-opinar-con.html)
 - [¿Te cobraron doble en la caseta? Así lo reclamas ante CAPUFE &lpar;IAVE&rpar;](http://blog.soterramirez.dev/2026/11/te-cobraron-doble-en-la-caseta-asi-lo.html)
-- [Plan de calidad: prevenir o inspeccionar](http://blog.soterramirez.dev/2026/11/plan-de-calidad-prevenir-o-inspeccionar.html)
-- [Técnicas de recolección: lo que la gente dice, lo que hace y lo que no sabe que quiere](http://blog.soterramirez.dev/2026/11/tecnicas-de-recoleccion-lo-que-la-gente.html)
-- [¿Cuánto puede pesar tu tráiler y qué le pide la NOM-012 al full?](http://blog.soterramirez.dev/2026/11/cuanto-puede-pesar-tu-trailer-y-que-le.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con qué trabajo
